@@ -1,1 +1,1 @@
-{"routes":[],"auth":{"rolesSource":"/api/logindigi","identityProviders":{"google":{"registration":{"clientIdSettingName":"GOOGLE_CLIENT_ID","clientSecretSettingName":"GOOGLE_CLIENT_SECRET_APP_SETTING_NAME"}}}}}
+{"routes":[],"auth":{"rolesSource":"https://purple-plant-03d7c6c1e.azurewebsites.net/.auth/login/google/callback","identityProviders":{"google":{"registration":{"clientIdSettingName":"GOOGLE_CLIENT_ID","clientSecretSettingName":"GOOGLE_CLIENT_SECRET_APP_SETTING_NAME"}}}}}
